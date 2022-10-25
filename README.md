@@ -37,8 +37,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
-![Screenshot of top of the page](./assets/images/screenshot-14.png "Screenshot Top Page")
-![ Screenshot of bottom of the page](./assets/images/screenshot-15.png "Screenshot Bottom Page")
+![Screenshot of top of the page](./assets/images/Screenshot%20(14).png "Screenshot Top Page")
+![ Screenshot of bottom of the page](./assets/images/Screenshot%20(15).png "Screenshot Bottom Page")
 
 ## Credits
 
