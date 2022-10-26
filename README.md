@@ -1,12 +1,12 @@
 # Bootcamp-Challenge-1-From-Nicholas-Mamberger
 
-## Description*
+## Description
 
 Search Engine Optimization Webpage Horiseon has necessary accessibility tags added
 
 -The website made by Horiseon was optimizied by me using their code and modifying it so that it would be more accesible to all kinds of people whether they had disabilities or other things that make a website harder to access, available for their use. The code was optimized using better semantic tags for the elements. The code was shortened and made more concise using class names for similar elements while keeping them the same size they had their own png and jpg files to retain their differences. 
 
-##Table of Contents*
+## Table of Contents
 
 - [Descritption](#description)
 - [Installation](#installation)
@@ -14,7 +14,7 @@ Search Engine Optimization Webpage Horiseon has necessary accessibility tags add
 - [Credits](#credits)
 - [License](#license)
 
-## Installation*
+## Installation
 
 Enter the URL from the website. My website:https://nickhm05.github.io/Bootcamp-Challenge-1-From-Nicholas-Mamberger/
 

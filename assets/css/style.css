@@ -32,7 +32,8 @@ body {
     font-size: 20px;
 }
 
-/*.header section ul {
+/* header sections were combined to create the above product and to shorten code. 
+.header section ul {
     list-style-type: none;
 }*/
 
@@ -91,7 +92,9 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*
+
+/* Benefit parts listed below were taken out and consolidated into one class called benefits-1 above. Including lead,brand, and cost.
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -138,7 +141,9 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-/*.benefit-lead img {
+/*.benefits below were taken out and consolidated into benefits-1 img and contains same code as they were.
+
+benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -170,7 +175,8 @@ h3 {
     max-height: 200px;
 }
 
-/*
+/* Online web services are what is commented below and removed to be shortened into the section above. 
+
 footer h4{
     display: none;
 }
@@ -229,7 +235,7 @@ footer h4{
     font-size: 36px;
 }
 */
-/*.footer {
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -239,4 +245,3 @@ footer h4{
 .footer h4 {
     font-size: 20px;
 }
-*/
