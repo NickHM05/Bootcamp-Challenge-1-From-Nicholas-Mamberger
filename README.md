@@ -18,6 +18,8 @@ Search Engine Optimization Webpage Horiseon has necessary accessibility tags add
 
 Enter the URL from the website. My website:https://nickhm05.github.io/Bootcamp-Challenge-1-From-Nicholas-Mamberger/
 
+URL of the github repository:https://github.com/NickHM05/Bootcamp-Challenge-1-From-Nicholas-Mamberger
+
 ## Usage
 
 ![Screenshot of top of the page](./assets/images/Screenshot%20(14).png "Screenshot Top Page")
