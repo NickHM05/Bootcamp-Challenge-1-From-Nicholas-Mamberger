@@ -35,7 +35,7 @@ Resource used: https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 ## License
 
 MIT License
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Copyright (c) [2022] [Nicholas Mamberger]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
